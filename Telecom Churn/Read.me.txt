@@ -1,0 +1,8 @@
+in this data we used 3 algorithms (knn) (tree) and (forest) 
+
+Accuracy for forest : 93.6
+Accuracy for KNN : 89.8 % 
+Accuracy for tree : 92.7%
+
+the highest accuracy was forest because the data have alot of bool columns which is random forest are very good for 
+
